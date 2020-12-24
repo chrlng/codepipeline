@@ -2,4 +2,4 @@ version: 0.2
 
 artifacts:
   files:
-    - 'codepipeline-us-west-2-449676159510/test-christine/BuildArti'
+    - 'test-christine/BuildArti'
