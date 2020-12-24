@@ -10,3 +10,4 @@ resource "aws_glue_job" "example" {
     script_location = "s3://aws-glue-scripts-288051765299-us-west-2"
   }
 }
+
